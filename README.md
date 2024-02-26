@@ -71,13 +71,15 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ALiMousa98&theme=tokyonight_duo" alt="manarshahin48" /></p>
   <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ALiMousa98&theme=algolia&show_icons=true&locale=en&layout=compact" alt="ALiMousa98" /><p align ="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ALiMousa98&theme=algolia&show_icons=true&locale=en&layout=compact" alt="ALiMousa98" />
+<p align ="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p></p>
  <br/>
  
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALiMousa98&theme=algolia&show_icons=true&locale=en" alt="ALiMousa98" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ALiMousa98&theme=algolia" alt="ALiMousa98" /></p>
+<!-- <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ALiMousa98&theme=algolia" alt="ALiMousa98" /></p> -->
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ALiMousa98&theme=algolia& alt="ALiMousa98" /></a> </p>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
