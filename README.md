@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://twitter.com/AliMous47009370" target="blank">
-   <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%25230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Follow-%40AliMous47009370-%25230A66C2.svg?style=for-the-badge&logo=X&color=blue">
    </a>
   
   <a href="https://www.facebook.com/anonymous98.17" target="blank">
