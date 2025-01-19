@@ -20,7 +20,7 @@
 
 - :thinking: I’m open for a new `job opportunity`, `Freelancing` 
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/15ewzXUY8A0yINln-R8QqYD-c25yLzJxh/edit?usp=sharing).
+- 📄 Know about my experiences [My Resume]([https://docs.google.com/document/d/15ewzXUY8A0yINln-R8QqYD-c25yLzJxh/edit?usp=sharing](https://docs.google.com/document/d/1dks35JrQKO1ZcI1JxIaR9XlUwNI_9u-6qgXNV6Jvlo0/edit?usp=sharing)).
 
 
 
